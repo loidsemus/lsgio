@@ -1,5 +1,5 @@
 <template>
-    <div class="w-screen px-8 md:px-16">
+    <div class="w-screen px-8 md:px-16 lg:px-32">
         <Header/>
         <Projects/>
     </div>
