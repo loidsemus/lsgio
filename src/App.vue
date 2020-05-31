@@ -1,7 +1,7 @@
 <template>
     <div class="w-screen px-8 md:px-16">
-        <Header />
-        <Projects />
+        <Header/>
+        <Projects/>
     </div>
 </template>
 
