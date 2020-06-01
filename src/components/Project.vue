@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col justify-between duration-200 rise w-full lg:w-1/3 bg-white shadow-lg rounded-lg p-6">
+    <div class="flex flex-col justify-between duration-200 rise w-full lg:w-1/3 bg-white shadow-lg hover:shadow-xl rounded-lg p-6">
         <div class="mb-8">
             <h3 class="text-gray-700 text-xl">{{name}}</h3>
             <p class="leading-tight text-gray-600">{{description}}</p>
