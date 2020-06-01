@@ -6,7 +6,7 @@
             <a href="https://github.com/loidsemus"><h1
                     class="text-5xl text-gray-800 font-bold text-center md:text-left md:ml-8 md:wrap">loidsemus</h1></a>
         </div>
-        <a href="https://github.com/loidsemus" class="hidden md:block"><img src="../assets/gtihub-mark.png" alt="GitHub"
+        <a href="https://github.com/loidsemus" class="hidden md:block"><img src="../assets/github-mark.png" alt="GitHub"
                                                                             class="w-8 h-8 opacity-75 hover:opacity-100 duration-200"></a>
     </div>
 </template>
